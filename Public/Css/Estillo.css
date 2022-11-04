@@ -1,0 +1,15 @@
+.image {
+    width: 260px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+h2 {
+    display: inline;
+}
+
+/* .centrarvertical{
+    vertical-align: middle;
+    margin-top: 20%;
+    margin-bottom: auto;
+} */
